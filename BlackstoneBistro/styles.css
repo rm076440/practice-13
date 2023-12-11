@@ -1,0 +1,26 @@
+ol,
+ul {
+    list-style-type: none;
+}
+
+#perens {
+    font-style: italic;
+}
+
+#text {
+    padding: 2px;
+    border-spacing: 2px;
+}
+
+#textarea {
+    font-style: italic;
+    width: 20px;
+}
+
+
+
+
+
+
+
+
